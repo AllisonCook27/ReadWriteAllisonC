@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\obj\Debug\ReadWriteAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\obj\Debug\ReadWriteAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\obj\Debug\ReadWriteAllisonC.frmReadWrite.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\obj\Debug\ReadWriteAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\bin\Debug\ReadWriteAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\bin\Debug\ReadWriteAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\bin\Debug\ReadWriteAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\obj\Debug\ReadWriteAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 5 (Arrays & Lists)\ReadWriteAllisonC\ReadWriteAllisonC\obj\Debug\ReadWriteAllisonC.pdb
